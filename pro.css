@@ -1,0 +1,172 @@
+.pi {
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.my,
+.Address,
+.phno {
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+    align-content: center;
+
+}
+
+.name {
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.ads {
+    color: aliceblue;
+    font-style: italic;
+    font-size: 35px;
+}
+
+.about {
+    color: orange;
+    font-size: larger;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.details {
+    color: aliceblue;
+    font-size: 35px;
+    font-style: italic;
+    text-align: justify;
+    align-self: auto;
+}
+
+.education {
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.qualification {
+    color: aliceblue;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.skill {
+    color: orange;
+    font-size: 40px;
+    font-style: bolder;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.skill-item {
+    margin: 50px;
+}
+
+.skill-item img {
+    width: 500px;
+    height: 500px;
+}
+
+.s1,
+.s2,
+.s3,
+.s4,
+.s5,
+.s6 {
+    color: orange;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.certification {
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.course {
+    color: aliceblue;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.course a {
+    color: orange;
+}
+
+.course a:hover {
+    color: aliceblue;
+}
+
+.ct {
+    color: orange;
+    font-size: 40px;
+}
+
+.git a {
+    color: orange;
+    font-size: 30px;
+}
+
+.git a:hover {
+    color: aliceblue;
+}
+
+.linkedin a {
+    color: orange;
+    font-size: 30px;
+}
+
+.linkedin a:hover {
+    color: aliceblue;
+}
+
+.email a {
+    color: orange;
+    font-size: 30px;
+}
+
+.email a:hover {
+    color: aliceblue;
+}
+
+.discord a {
+    color: orange;
+    font-size: 30px;
+}
+
+.discord a:hover {
+    color: aliceblue;
+}
+
+.project {
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.pro {
+    color: aliceblue;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.pro a {
+    color: orange;
+}
+
+.pro a:hover {
+    color: aliceblue;
+}
